@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsAtlas</string>
+    <string name="title_activity_maps">NewsAtlas</string>
+    <string name="no_news_found">Sorry, we have no news For this place</string>
+</resources>
