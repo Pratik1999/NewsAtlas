@@ -1,0 +1,3 @@
+A new app made following MVVM architecture , The app uses https://newsapi.org for getting news. 
+The app uses retrofit library for making api calls,and Glide library for image loading and caching
+
